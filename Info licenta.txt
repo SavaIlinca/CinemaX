@@ -1,0 +1,2 @@
+1. Atunci când utilizatorul e logat, acesta poate vedea tot istoricul rezervarilor de la toti userii si as vrea sa îmi apara doar istoricul rezervarilor pentru utilizatorul autentificat.
+2. Pentru interfata admin, nu imi merge partea de crud cu modificare/stergere de rezervari.
